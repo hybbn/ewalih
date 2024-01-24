@@ -1,9 +1,9 @@
 {
   "webview": {
       
-          "siteurl" : "https://www.jumia.ci/",
+          "siteurl" : "",
 
-          "network" : "webview"
+          "network" : "wordpress"
 
     }
   
